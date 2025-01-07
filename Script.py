@@ -3,11 +3,11 @@
 # Ask Doubt on telegram @KingVJ01
 
 class script(object):
-    START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
+    START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/TNMCartoons{}>{}</a></blockquote>
     
 ɪ ᴀᴍ【 ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ 】ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ + └ᴀᴡᴇꜱᴏᴍᴇ ꜰɪʟᴛᴇʀ┘ + ├ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ┤ + ☞ᴍᴀɴᴜᴀʟ ꜰɪᴛᴇʀ☜ ᴀɴᴅ ᢵᴄᴜꜱᴛᴏᴍɪᴢᴇᴅ ꜱʜᴏʀᴛɴᴇʀ ꜱᴜᴘᴘᴏʀᴛᢴ ᢾᴀɴᴅ ʙᴇꜱᴛ ᴜɪ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇᢿ</b>"""
 
-    CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
+    CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/TNMCartoons{}>{}</a></blockquote>
     
 ɪ ᴀᴍ ᴀᴅᴠᴀɴᴄᴇ ᴀɴᴅ ᴘᴏᴡᴇʀғᴜʟʟ ᴀᴜᴛᴏғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴀᴍᴀᴢɪɴɢ ғᴇᴀᴛᴜʀᴇs ᴊᴜsᴛ ᴛʏᴘᴇ ᴡʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛʜᴇɴ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ 💘</b>"""
     
@@ -16,7 +16,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b><blockquote>⍟───[ ᴍʏ ᴅᴇᴛᴀɪʟꜱ ]───⍟</blockquote>
     
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/tnmcartoons{}>{}</a>
 ‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
 ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href={}>ᴏᴡɴᴇʀ</a> 
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
@@ -493,7 +493,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
  எப்படி மற்றும் என்ன செய்ய வேண்டும்
 
- படி 1: இந்த VJ-FILTER-BOT போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
+ படி 1: இந்த TNMadara-FILTER-BOT போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
 
  படி 2: உங்கள் இணையதளம் மற்றும் API ஐச் சேர்க்கவும்
 
