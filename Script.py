@@ -5,7 +5,7 @@
 class script(object):
     START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/TNMCartoons{}>{}</a></blockquote>
     
-ɪ ᴀᴍ【 ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ 】ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ + └ᴀᴡᴇꜱᴏᴍᴇ ꜰɪʟᴛᴇʀ┘ + ├ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ┤ + ☞ᴍᴀɴᴜᴀʟ ꜰɪᴛᴇʀ☜ ᴀɴᴅ ᢵᴄᴜꜱᴛᴏᴍɪᴢᴇᴅ ꜱʜᴏʀᴛɴᴇʀ ꜱᴜᴘᴘᴏʀᴛᢴ ᢾᴀɴᴅ ʙᴇꜱᴛ ᴜɪ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇᢿ</b>"""
+ɪ ᴀᴍ Anime bot search Anime Names and All anime in tamil【Explain:naruto s01 or one piece S02】</b>"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/TNMCartoons{}>{}</a></blockquote>
     
