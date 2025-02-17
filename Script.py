@@ -5,7 +5,10 @@
 class script(object):
     START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/TNMCartoons{}>{}</a></blockquote>
     
-ɪ ᴀᴍ ANIME BOT SEARCH ANIME NAMES AND All ANIME IN TAMIL【EXPLAIN:Naruto S01,One Piece S02】SEARCH ALL ANIME AND CARTOONS,ANIME MOVIES</b>"""
+Tamil Anime Request bot 😃 /
+🍀  MOVIE IN TAMIL ....🔍🔎
+✅ Anime in Tamil ✨ 
+☯️❄️Search Movie Name Or Cartoons,Anime Name👍</b>"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/TNMCartoons{}>{}</a></blockquote>
     
